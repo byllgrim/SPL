@@ -1,23 +1,28 @@
-# SPL (Simple Public License)
+# SPL (Small/Simple Public License)
 
 WORK IN PROGRESS! HANG ON!
 
-Permission is hereby granted
+Permission is hereby granted to every person to use this software in any way and for any purpose.
+
+grants all rights
 to every person
+equally
 
-to use
-to use, copy, modify, and distribute
-to do anything with
+All rights to this software (TODO work?) are permanently dedicated to
+every person
+every existing person
+the public
+.
 
-this software
-this software and associated documentation files (the "Software")
+alle rettigheter til dette verket tilegnes offentligheten
 
-for whatever you want
-in any way
-for any purpose
-for any reason
+without royalty
 
-THE SOFTWARE IS PROVIDED WITH NO WARRANTY AND THE AUTHOR(S) DISCLAIM ALL LIABILITY.
-IS PROVIDED "AS IS"
-SHALL NOT BE HELD LIABLE
+copyright waived
+
+Copyright is given to public domain
+cannot be hijacked
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR(S) DISCLAIM ALL WARRANTY AND LIABILITY.
+
 --------........--------........--------........--------........--------........
