@@ -1,0 +1,2 @@
+# SPL
+Simple Public License
