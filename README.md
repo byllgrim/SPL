@@ -7,7 +7,8 @@ I was inspired by
 [WTFPL](http://www.wtfpl.net/txt/copying/),
 [MIT](https://opensource.org/licenses/MIT),
 [ISC](https://opensource.org/licenses/ISC),
-[Unlicense](https://unlicense.org/).
+[Unlicense](https://unlicense.org/),
+[Suckless](https://suckless.org/).
 
 SPL (Small/Simple Public License)
 =================================
