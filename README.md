@@ -12,7 +12,7 @@ I was inspired by
 
 SPL (Small/Simple Public License)
 =================================
-Permission is hereby granted to every person to use this software in any way
+Permission is hereby granted for anyone to use this software in any way
 and for any purpose in agreement with this license.
 
 All intellectual property rights of this software are dedicated to the
