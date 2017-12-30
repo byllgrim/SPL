@@ -7,7 +7,7 @@ Permission is hereby granted to every person to use this software in any way
 and for any purpose under the conditions of this license.
 
 All intellectual property rights of this software are dedicated to the
-public domain in perpetuity.
+public domain.
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR(S) DISCLAIM ALL WARRANTY AND
 LIABILITY.
