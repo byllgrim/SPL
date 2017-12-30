@@ -5,7 +5,7 @@ NB! I know jack shit about law and this text prolly has much to be contested.
 SPL (Small/Simple Public License)
 =================================
 Permission is hereby granted to every person to use this software in any way
-and for any purpose under the conditions of this license.
+and for any purpose in agreement with this license.
 
 All intellectual property rights of this software are dedicated to the
 public domain.
