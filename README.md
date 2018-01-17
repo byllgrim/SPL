@@ -1,8 +1,8 @@
-I found all preexisting licenses to be prolix.
-This is my attempt at a [copyfree](http://copyfree.org/) license.
-NB! I know jack shit about law and this text prolly has much to be contested.
+Other licenses are too verbose.
+This is an attempt at a [copyfree](http://copyfree.org/) license.
+NB! I know jack shit about law.
 
-I was inspired by
+Inspirations:
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt),
 [WTFPL](http://www.wtfpl.net/txt/copying/),
 [MIT](https://opensource.org/licenses/MIT),
