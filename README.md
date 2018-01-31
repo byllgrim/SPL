@@ -1,6 +1,5 @@
 Other licenses are too verbose.
 This is an attempt at a [copyfree](http://copyfree.org/) license.
-NB! I know jack shit about law.
 
 Inspirations:
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt),
@@ -12,11 +11,11 @@ Inspirations:
 
 SPL (Small/Simple Public License)
 =================================
-Permission is hereby granted for anyone to use this software in any way
-and for any purpose in agreement with this license.
+Permission is hereby granted for anyone to use this work in any way and for
+any purpose in agreement with this license.
 
-All intellectual property rights of this software are dedicated to the
+All intellectual property rights of this work are dedicated to the
 public domain.
 
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR(S) DISCLAIM ALL WARRANTY AND
+THE WORK IS PROVIDED "AS IS" AND THE AUTHOR(S) DISCLAIM ALL WARRANTY AND
 LIABILITY.
