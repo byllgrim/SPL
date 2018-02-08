@@ -11,8 +11,7 @@ Inspirations:
 
 SPL (Small/Simple Public License)
 =================================
-Permission is hereby granted for anyone to use this work in any way and for
-any purpose in agreement with this license.
+Permission is hereby granted to utilize this work in any way.
 
 All intellectual property rights of this work are dedicated to the
 public domain.
