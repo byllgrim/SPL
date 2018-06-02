@@ -1,5 +1,5 @@
 Most licenses are too verbose.
-This aims at a [copyfree](http://copyfree.org/) license.
+SPL is a minimal [copyfree](http://copyfree.org/) license.
 
 Inspirations:
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt),
