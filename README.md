@@ -13,8 +13,7 @@ SPL (Small/Simple Public License)
 =================================
 Permission is hereby granted to utilize this work in any way.
 
-All intellectual property rights of this work are dedicated to the
-public domain.
+All rights to this work are dedicated to the public domain.
 
 THE WORK IS PROVIDED "AS IS" AND THE AUTHOR(S) DISCLAIM ALL WARRANTY AND
 LIABILITY.
