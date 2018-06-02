@@ -9,8 +9,8 @@ Inspirations:
 [Unlicense](https://unlicense.org/),
 [Suckless](https://suckless.org/).
 
-SPL (Small/Simple Public License)
-=================================
+Simple Public License (SPL)
+===========================
 Permission is hereby granted to utilize this work in any way.
 
 All rights to this work are dedicated to the public domain.
