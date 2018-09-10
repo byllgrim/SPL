@@ -1,5 +1,4 @@
-Most licenses are too verbose.
-SPL is a minimal [copyfree](http://copyfree.org/) license.
+SPL is a terse [copyfree](http://copyfree.org/) license.
 
 Inspirations:
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt),
