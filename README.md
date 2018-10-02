@@ -14,5 +14,4 @@ Permission is hereby granted to utilize this work in any way.
 
 All rights are dedicated to the public domain.
 
-THE WORK IS PROVIDED "AS IS" AND THE AUTHOR(S) DISCLAIM ALL WARRANTY AND
-LIABILITY.
+THE AUTHORS DISCLAIM ALL WARRANTY AND LIABILITY.
