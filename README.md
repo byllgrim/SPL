@@ -10,7 +10,7 @@ Inspirations:
 
 Simple Public License (SPL)
 ===========================
-Permission is hereby granted to utilize this work in any way.
+Anyone may utilize this work in any way.
 
 All rights are dedicated to the public domain.
 
