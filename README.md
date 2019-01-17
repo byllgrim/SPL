@@ -12,6 +12,6 @@ Simple Public License (SPL)
 ===========================
 Anyone may utilize this work in any way.
 
-It is dedicated to the public domain.
+The authors waive all rights.
 
 THE AUTHORS DISCLAIM ALL WARRANTY AND LIABILITY.
