@@ -10,7 +10,7 @@ Inspirations:
 
 Simple Public License (SPL)
 ===========================
-Anyone may utilize this work in any way.
+Anyone may use this work in any way.
 
 All rights are waived.
 
