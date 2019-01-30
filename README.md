@@ -14,4 +14,4 @@ Anyone may use this work in any way.
 
 All rights are waived.
 
-THE AUTHORS DISCLAIM ALL WARRANTY AND LIABILITY.
+ALL WARRANTY AND LIABILITY IS DISCLAIMED.
