@@ -1,3 +1,5 @@
+# Simple Public License (SPL)
+
 SPL is a terse [copyfree](http://copyfree.org/) license.
 
 Inspirations:
@@ -8,10 +10,15 @@ Inspirations:
 [Unlicense](https://unlicense.org/),
 [Suckless](https://suckless.org/).
 
+
+## The License
+
+```
 Simple Public License (SPL)
-===========================
+
 Anyone may use this work in any way.
 
 All rights are waived.
 
 ALL WARRANTY AND LIABILITY IS DISCLAIMED.
+```
