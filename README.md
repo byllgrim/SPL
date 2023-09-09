@@ -14,7 +14,7 @@ Inspirations:
 ## The License
 
 ```
-Simple Public License (SPL)
+Simple Public License (SPL) v1.1
 
 Anyone may use this work in any way.
 
